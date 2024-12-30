@@ -6,7 +6,7 @@ Blackjack). This exercise is similar to the Blackjack example in Sutton and Bart
 the rules of the card game are different and non-standard.
 
 
-##2. RL-LunarLander
+## 2. RL-LunarLander
 ### Objective
 The purpose of this activity is to use and comprehend the Actor Critic reinforcement learning 
 approach on the LunarLander  v2 environment from OpenAI Gymnasium. The Actor Critic algorithm 
